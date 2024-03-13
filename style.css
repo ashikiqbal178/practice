@@ -1,0 +1,59 @@
+h2{
+    font-size: 30px;
+}
+h1{
+    font-size: 40px;
+}
+h6{
+    font-size: 20px;
+}
+section{
+    display: flex;
+}
+.top{
+   
+    background-image: url(https://thumbs.dreamstime.com/b/spring-summer-season-abstract-nature-background-grass-blue-sky-back-49716369.jpg);
+}
+.half{
+    width: 50%;
+}
+.pic{
+    width: 70%;
+    border-radius: 20%;
+    ;
+}
+.link{
+    text-decoration: none;
+    background: linear-gradient(#e66465, #9198e5);
+    padding: 10px 30px;
+    border-radius: 10%;
+}
+.pic2{
+    width: 70%;
+    margin: 10px;
+    
+
+}
+.top2{
+    background-image: url(https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg);
+}
+.third{
+    text-align: center;
+}
+.ibra{
+    width: 50%;
+    border: 5px solid black;
+}
+.parent{
+    display: flex;
+}
+.child{
+    box-shadow: 10px 10px 50px blueviolet;
+    margin: 2%;
+    padding: 40px;
+    border-image: linear-gradient(red, blue) 27;
+    border-left: 5px solid;
+    border-radius: 0 10px 30px 0;
+
+
+}
